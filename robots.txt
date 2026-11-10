@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://custombuildpcs.github.io/SHbuilds/sitemap.xml

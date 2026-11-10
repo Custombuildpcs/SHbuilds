@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://custombuildpcs.github.io/SHbuilds/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://custombuildpcs.github.io/SHbuilds/about/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://custombuildpcs.github.io/SHbuilds/work/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/ryzen.webp</image:loc>
+      <image:title>Ryzen 7 5700X Gaming PC</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/i5.webp</image:loc>
+      <image:title>i5-10100F Gaming PC</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/nzxt.webp</image:loc>
+      <image:title>NZXT Custom Build</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/rtx.webp</image:loc>
+      <image:title>RTX 4060 and i7-13700F Gaming PC</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/i7.webp</image:loc>
+      <image:title>i7-10700F Gaming PC</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/a5900.webp</image:loc>
+      <image:title>Ryzen 9 5900X Gaming PC</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/e13100.webp</image:loc>
+      <image:title>i3-13100F and RTX 2060 SUPER Build</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/b4790.webp</image:loc>
+      <image:title>i7-4790K and GTX 980 Ti Build</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/c5800.webp</image:loc>
+      <image:title>Ryzen 7 5800X3D and RTX 2070 SUPER Build</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/corsair.webp</image:loc>
+      <image:title>i7-9700K and GTX 1080 Ti Build</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/f9700.webp</image:loc>
+      <image:title>i7-9700K and RTX 2070 SUPER Setup</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/g3600.webp</image:loc>
+      <image:title>Ryzen 5 3600 and RTX 2060 Build</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/razer.webp</image:loc>
+      <image:title>Razer-Themed Blue Build</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/evga.webp</image:loc>
+      <image:title>EVGA Hybrid Liquid-Cooled Build</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/msi.webp</image:loc>
+      <image:title>MSI Case Build</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/blue.webp</image:loc>
+      <image:title>Blue-Lit Glass Panel Build</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/white1.webp</image:loc>
+      <image:title>White Case Radeon Build</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/white2.webp</image:loc>
+      <image:title>White Mesh-Front RGB Build</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/blue2.webp</image:loc>
+      <image:title>Black Case with Blue Fans</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/purple.webp</image:loc>
+      <image:title>Purple-Lit CyberPower Build</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/nzx2.webp</image:loc>
+      <image:title>Black-and-White Radeon Build</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://custombuildpcs.github.io/SHbuilds/assets/img/process.webp</image:loc>
+      <image:title>Build in Progress</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://custombuildpcs.github.io/SHbuilds/services/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://custombuildpcs.github.io/SHbuilds/contact/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
